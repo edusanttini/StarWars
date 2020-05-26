@@ -2,5 +2,10 @@ luke s
 edu fs
 chewie
 wars
+<<<<<<< HEAD
 diff filestes
 stashinn them wars
+=======
+diff filestest
+stashinn them warss
+>>>>>>> 6fe8943... stashin them warss
